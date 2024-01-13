@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **quddussalam555@gmail.com**
 
-- ⚡ Fun fact **I can speak in 3 languages!**
+- ⚡ Fun fact **I have completed 50 or so anime!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
