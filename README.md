@@ -29,11 +29,16 @@ I'm an **Information Technology student** at **Brawijaya University** in Malang,
 
 ## 📊 GitHub Analytics
 
-Here is a live look at my GitHub activity and development streaks:
+Here is a live look at my development activity and milestones:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XnonXte&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=3670A0&icon_color=FFA116" alt="XnonXte's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=XnonXte&theme=dark&hide_border=true&background=121212&sideNums=3670A0&stroke=FFA116" alt="XnonXte's Streak Stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XnonXte&theme=github-dark&bg_color=121212&color=3670A0&line=FFA116&point=FFFFFF&hide_border=true" alt="XnonXte's Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=XnonXte&theme=dracula&column=7&margin-w=15&no-bg=true" alt="XnonXte's Trophies" />
+  </a>
 </p>
 
 ---
