@@ -1,43 +1,15 @@
-# Hi there, I'm XnonXte! 👋
+# Hey, I'm XnonXte!
 
-<p align="left">
-  <a href="https://linktr.ee/xnonxte" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-285AE7?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-</p>
+I'm an **Information Technology student at Brawijaya University** in Malang, Indonesia.
 
-I'm an **Information Technology student** at **Brawijaya University** in Malang, Indonesia. I bridge the gap between rigorous logic and creative expression, dividing my time between optimizing algorithms and building interactive virtual worlds.
+I like coding, making games, and messing around with computers. Most of the time, I'm either working on some random project, trying to solve a programming problem, or just messing with something to see how it works.
 
----
+## GitHub Stats
 
-## 🚀 What I'm Up To
+[![GitHub Streak](https://streak-stats.demolab.com?user=xnonxte)](https://git.io/streak-stats)
 
-* **🧠 Competitive Programming:** Actively grinding problems on **Codeforces**, **CSES**, and **LeetCode**. If a solution can be optimized by a fraction of a millisecond, I'm probably trying to do it.
-* **🎮 Game Development:** Crafting gameplay mechanics, physics, and immersive worlds inside the **Unity** engine.
+## Find Me
 
----
+You can find my other stuff on [Linktree](https://linktr.ee/xnonxte).
 
-## 🛠️ Tech Stack & Tools
-
-| Category | Technologies & Platforms |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Game Engine** | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) |
-| **Platforms** | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black) |
-
----
-
-## 📊 GitHub Analytics
-
-Here is a live look at my development activity:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XnonXte&theme=github-dark&bg_color=121212&color=3670A0&line=FFA116&point=FFFFFF&hide_border=true" alt="XnonXte's Activity Graph" width="100%" />
-</p>
-
-
----
-
-### 🤝 Connect with Me
-* Find all my social profiles and projects via my [Linktree](https://linktr.ee/xnonxte).
-* Feel free to explore my repositories or reach out if you want to collaborate on a game jam or talk algorithms!
+Feel free to look around my repositories!
